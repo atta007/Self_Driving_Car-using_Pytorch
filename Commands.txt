@@ -1,0 +1,5 @@
+conda create --name sdc
+
+activate sdc
+
+python drive.py model.h5
